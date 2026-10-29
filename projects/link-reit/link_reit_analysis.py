@@ -15,8 +15,8 @@ FY26 = {
     "nav_per_unit": 57.75,      # HK$
 }
 FY25 = {
-    "distributable": FY26["distributable"] / (1 - 0.064),
-    "npi": FY26["npi"] / (1 - 0.037),
+    "distributable": 7025,
+    "npi": 10619,
     "total_debt": 53500,
     "fixed_share": 0.669,
     "avg_cost": 0.0358,

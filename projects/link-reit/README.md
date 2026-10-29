@@ -12,17 +12,15 @@
 
 | | FY2024/25 | FY2025/26 |
 |---|---|---|
-| DPU (HK cents) | ~272.4 | 253.61 (–6.9%) |
-| Total distributable amount (HK$m) | ~7,027 | 6,577 (–6.4%) |
-| Net property income (HK$m) | ~10,623 | 10,230 (–3.7%) |
+| DPU (HK cents) | 272.34 | 253.61 (–6.9%) |
+| Total distributable amount (HK$m) | 7,025 | 6,577 (–6.4%) |
+| Net property income (HK$m) | 10,619 | 10,230 (–3.7%) |
 | Total debt, face value (HK$bn) | 53.5 | 56.7 |
 | Debt at fixed rates | 66.9% | 60.0% |
 | Average all-in borrowing cost | 3.58% | 3.44% |
 | Net gearing | 21.5% | 23.9% |
 | NAV per unit (HK$) | 63.30 | 57.75 |
 | Hong Kong retail rental reversion | | –8.2% |
-
-FY2024/25 DPU, distributable amount and NPI are implied from the reported FY2025/26 figures and their year-on-year changes.
 
 Market data, late October 2026: unit price HK$39.30 (27 Oct); 10-year HKGB 4.164% (average accepted yield at the 21 Oct tender); 3-month HIBOR 3.24% (27 Oct).
 
@@ -37,7 +35,7 @@ Simplifications: the shock applies to all floating-rate debt, although part of i
 
 ## What drove the DPU decline
 
-Distributable amount fell by about HK$450m. Net property income fell by about HK$393m, so lower rents explain most of the fall. Funding costs did not add to it: the average borrowing cost fell, even though total debt rose by HK$3.2bn. NAV fell 8.8% on lower property valuations, which also pushed net gearing up to 23.9%.
+Distributable amount fell by HK$448m. Net property income fell by HK$389m, so lower rents explain most of the fall. Funding costs did not add to it: the average borrowing cost fell, even though total debt rose by HK$3.2bn. NAV fell 8.8% on lower property valuations, which also pushed net gearing up to 23.9%.
 
 ## Valuation
 
@@ -62,7 +60,8 @@ Update the `MARKET` inputs (price, 10-year HKGB yield, HIBOR) to the latest valu
 ## Sources
 
 - Link REIT, [Annual Results 2025/2026 announcement (HKEX)](https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0528/2026052800355.pdf) and [analyst presentation](https://www.linkreit.com/-/media/linkreit/investor-relations/financial-reports-and-presentations/presentations/2025-2026/presentation/20260527_ar202526-annual-results-presentation.pdf?rev=a9a8ca7cfd054fe292106dea3855a759)
-- Link REIT, [annual results press release (debt, fixed-rate share, borrowing cost)](https://www.linkreit.com/en/media/news-releases/link-reit-delivers-solid-results-amid-challenging-conditions/)
+- Link REIT, [2025/2026 annual results press release](https://www.linkreit.com/en/media/news-releases/link-announces-annual-results-back-to-basics-and-a-focus-on-unitholders/)
+- Link REIT, [2024/2025 annual results press release (66.9% fixed-rate share at 31 March 2025)](https://www.linkreit.com/en/media/news-releases/link-reit-delivers-solid-results-amid-challenging-conditions/)
 - The Standard, [Link REIT's distribution dips 6.4pc for the year ended March](https://www.thestandard.com.hk/finance/article/333207/Link-REITs-distribution-dips-64pc-for-the-year-ended-March-eyes-disposals-buybacks)
 - Mingtiandi, [Link REIT to continue divestments as property income falls 3.7%](https://www.mingtiandi.com/real-estate/finance/link-reit-to-continue-divestments-as-property-income-falls-3-7/)
 - MarketScreener, [Link REIT quote (27 Oct 2026 close)](https://www.marketscreener.com/quote/stock/LINK-REAL-ESTATE-INVESTME-6498337/)
